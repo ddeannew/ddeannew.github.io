@@ -1,6 +1,6 @@
 title: "Deanne Tak On Wah"
 author: "Deanne Wah"
-description: "PhD Candidate at The University of Western Ontario"
+description: "Deanne Tak On Wah | PhD Candidate at | The University of Western Ontario"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {title: "About Me", file: "aboutme.md"}
+  - {title: "Publications", file: "README.md"}
+  - {title: "My Classroom"}
+  - {title: "Teaching Resources", file: "index.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:dwah@uwo.ca"}
