@@ -15,7 +15,7 @@ minimal: false             # use a dark header
 
 # Menu
 image:
-  source: Deannepic.png
+  source: assets/images/Deannepic.png
   output: generated
   presets:
     # Proportional preset
