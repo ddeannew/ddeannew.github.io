@@ -22,7 +22,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Teaching Resources: to be added"}
   - {title: "Escape Rooms: to be added
 
-
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:dwah@uwo.ca"}
   - {title: Github, icon: github, url: "https://github.com/ddeannew"}
