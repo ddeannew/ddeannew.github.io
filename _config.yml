@@ -1,6 +1,7 @@
 title: "Deanne Tak On Wah"
 author: "Deanne Wah"
-description: "Deanne Tak On Wah | PhD Candidate at | The University of Western Ontario"
+  avatar: "/assets/images/Deannepic.png"
+description: "PhD Candidate at The University of Western Ontario"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -14,20 +15,6 @@ show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
-image:
-  source: assets/images/
-  output: generated
-  presets:
-    # Proportional preset
-    users:
-      attr:
-        class: user-portrait
-        itemprop: image
-      width: 350
-    # Scaled and cropped preset
-    half:
-      width: 400
-      height: 400
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {% image {{ Deannepic.png }} alt="deanne" %}
