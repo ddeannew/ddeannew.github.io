@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
   - {title: "Publications", file: "publications.md"}
   - {title: "My Classroom", file: "virtualclassroom.html"}
-  - {title: "Teaching Resources: to be added"}
-  - {title: "Escape Rooms: to be added"}
+  - {title: "Teaching Resources"}
+  - {title: "Escape Rooms"}
   - {title: "Blog", file: "blog.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
