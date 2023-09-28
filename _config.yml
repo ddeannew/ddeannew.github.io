@@ -1,6 +1,5 @@
 title: "Deanne Tak On Wah"
 author: "Deanne Wah"
-  avatar: "Deannepic.png"
 description: "PhD Candidate at The University of Western Ontario"
 permalink: /:title/
 lang: "en"
@@ -23,7 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Teaching Resources: to be added"}
   - {title: "Escape Rooms: to be added"}
 
-
+avatar: "assets/images/Deannepic.png"
+round-avatar: true
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:dwah@uwo.ca"}
