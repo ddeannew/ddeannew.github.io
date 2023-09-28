@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-<img src="Deannepic.png" width="100" height="200">
+<img src="Deannepic.png" width="100" height="150">
 Welcome to my space. I'm Deanne (they/them) and I am a PhD candidate in the Department of Psychology at The University of Western Ontario. I am studying reading development using both behavioural and fMRI neuroimaging analyses with the hopes of providing insights on both reading ability and disability.
 
 Outside of research, I am an OCT certified teacher and reading remediation interventionist. Having experience teaching children with mild to severe reading difficulties, I hope to bridge the gap between reading research and teaching practice.
