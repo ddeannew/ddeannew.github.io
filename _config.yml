@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "About Me", file: "aboutme.md"}
+  - {title: "Home", file: "index.html"}
   - {title: "Publications", file: "publications.md"}
   - {title: "My Classroom", file: "virtualclassroom.html"}
   - {title: "Teaching Resources: to be added"}
