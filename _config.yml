@@ -15,7 +15,7 @@ minimal: false             # use a dark header
 
 # Menu
 image:
-  source: assets/images/Deannepic.png
+  source: assets/images/
   output: generated
   presets:
     # Proportional preset
@@ -30,6 +30,7 @@ image:
       height: 400
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {% image {{ Deannepic.png }} alt="deanne" %}
   - {title: "Home", file: "index.html"}
   - {title: "Publications", file: "publications.md"}
   - {title: "My Classroom", file: "virtualclassroom.html"}
