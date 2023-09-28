@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Publications", file: "publications.md"}
   - {title: "My Classroom", file: "virtualclassroom.html"}
   - {title: "Teaching Resources: to be added"}
-  - {title: "Escape Rooms: to be added}
+  - {title: "Escape Rooms: to be added"}
 
 avatar: "Deannepic.png"
 
