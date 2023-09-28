@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-![deanne](deannepic.png)
+![deanne](Deannepic.png)
 
 Welcome to my space. I'm Deanne (they/them) and I am a PhD candidate in the Department of Psychology at The University of Western Ontario. I am studying reading development using both behavioural and fMRI neuroimaging analyses with the hopes of providing insights on both reading ability and disability.
 
