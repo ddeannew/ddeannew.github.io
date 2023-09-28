@@ -1,5 +1,6 @@
 title: "Deanne Tak On Wah"
-author: "Deanne Wah"
+author: 
+  name: "Deanne Wah"
   avatar: "/assets/images/Deannepic.png"
 description: "PhD Candidate at The University of Western Ontario"
 permalink: /:title/
@@ -17,7 +18,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {% image {{ Deannepic.png }} alt="deanne" %}
   - {title: "Home", file: "index.html"}
   - {title: "Publications", file: "publications.md"}
   - {title: "My Classroom", file: "virtualclassroom.html"}
