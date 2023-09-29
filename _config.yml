@@ -19,9 +19,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
   - {title: "Publications", file: "publications.md"}
   - {title: "My Classroom", file: "virtualclassroom.html"}
-  - {title: "Teaching Resources"}
+#  - {title: "Teaching Resources"}
   - {title: "Escape Rooms", file: "escaperooms.html"}
-  - {title: "Blog", file: "blog.html"}
+#  - {title: "Blog", file: "blog.html"}
+  - {title: "Contact Me", file: "contactme.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:dwah@uwo.ca"}
