@@ -4,8 +4,8 @@ title: "Publications"
 ---
 
 ## Journal Publications
-[8] Wah, D. T. O., & Joanisse, M. F. (2026, May 7). Representations of Orthographic, Phonological, Semantic, and Intermediate Mappings During English Word Reading. [Preprint] Retrieved from osf.io/preprints/psyarxiv/kfsrd_v2
-[7]	Wah, D. T. O., & Joanisse, M. F. (2026, May 1). Orthographic-Phonological and Orthographic-Semantic Effects in Monosyllabic and Disyllabic English Word Reading. [Preprint] Retrieved from osf.io/preprints/psyarxiv/bc5pe_v2
+[8] Wah, D. T. O., & Joanisse, M. F. (2026, May 7). Representations of Orthographic, Phonological, Semantic, and Intermediate Mappings During English Word Reading. [Preprint] Retrieved from [osf.io/preprints/psyarxiv/kfsrd_v1](osf.io/preprints/psyarxiv/kfsrd_v1) \
+[7]	Wah, D. T. O., & Joanisse, M. F. (2026, May 1). Orthographic-Phonological and Orthographic-Semantic Effects in Monosyllabic and Disyllabic English Word Reading. [Preprint] Retrieved from [osf.io/preprints/psyarxiv/bc5pe_v2](osf.io/preprints/psyarxiv/bc5pe_v2) \
 [6] Kavaliers, M., Wah, D. T. O., Bishnoi, I. R., Ossenkopp, K.-P., & Choleris, E. (2023). [Disgusted snails, oxytocin, and the avoidance of infection threat](https://pubmed.ncbi.nlm.nih.gov/37678092/). Hormones and Behavior, 155: 105424. https://doi.org/10.1016/j.yhbeh.2023.105424 \
 Associated Open Access Dataset: Kavaliers, M., Wah, D., Bishnoi, I. R., Ossenkopp, K. -P., & Choleris, E. (2023). [Disgusted Snails, Oxytocin, and the Avoidance of Infection Threat Dataset](https://www.frdr-dfdr.ca/repo/dataset/ad262813-575a-4be1-813c-b2ebaa649843). Federated Research Data Repository. https://doi.org/10.20383/103.0787 \
 [5] Wei, J., Xiang, J., Yasin, Y., Barszczyk, A., Wah, D. T. O., Yu, M., Huang, W., Feng, Z.-P., Lee, K., & Luo, H. (2021). [Physical Features and Vital Signs Predict Serum Albumin and Globulin Concentrations Using Machine Learning](https://pubmed.ncbi.nlm.nih.gov/33639645/). Asian Pacific Journal of Cancer Prevention, 22(2), 333–340. https://doi.org/10.31557/APJCP.2021.22.2.333 \
