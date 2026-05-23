@@ -4,6 +4,8 @@ title: "Publications"
 ---
 
 ## Journal Publications
+[8] Wah, D. T. O., & Joanisse, M. F. (2026, May 7). Representations of Orthographic, Phonological, Semantic, and Intermediate Mappings During English Word Reading. [Preprint] Retrieved from osf.io/preprints/psyarxiv/kfsrd_v2
+[7]	Wah, D. T. O., & Joanisse, M. F. (2026, May 1). Orthographic-Phonological and Orthographic-Semantic Effects in Monosyllabic and Disyllabic English Word Reading. [Preprint] Retrieved from osf.io/preprints/psyarxiv/bc5pe_v2
 [6] Kavaliers, M., Wah, D. T. O., Bishnoi, I. R., Ossenkopp, K.-P., & Choleris, E. (2023). [Disgusted snails, oxytocin, and the avoidance of infection threat](https://pubmed.ncbi.nlm.nih.gov/37678092/). Hormones and Behavior, 155: 105424. https://doi.org/10.1016/j.yhbeh.2023.105424 \
 Associated Open Access Dataset: Kavaliers, M., Wah, D., Bishnoi, I. R., Ossenkopp, K. -P., & Choleris, E. (2023). [Disgusted Snails, Oxytocin, and the Avoidance of Infection Threat Dataset](https://www.frdr-dfdr.ca/repo/dataset/ad262813-575a-4be1-813c-b2ebaa649843). Federated Research Data Repository. https://doi.org/10.20383/103.0787 \
 [5] Wei, J., Xiang, J., Yasin, Y., Barszczyk, A., Wah, D. T. O., Yu, M., Huang, W., Feng, Z.-P., Lee, K., & Luo, H. (2021). [Physical Features and Vital Signs Predict Serum Albumin and Globulin Concentrations Using Machine Learning](https://pubmed.ncbi.nlm.nih.gov/33639645/). Asian Pacific Journal of Cancer Prevention, 22(2), 333–340. https://doi.org/10.31557/APJCP.2021.22.2.333 \
@@ -14,6 +16,8 @@ Associated Open Access Dataset: Kavaliers, M., Wah, D., Bishnoi, I. R., Ossenkop
 
 
 ## Magazine Publications
+[6] Wah, D. (2026). [When Math Meets Dr. Seuss: Our Brain's Shared System for Mathematics and Language](https://songsuwo.ca/thedorsalcolumn/vol7-iss1-deanne-wah) The Dorsal Column, 7(1). \
+[6] Wah, D. (2024). [How the Brain Fine-Tunes Itself in Preparation for Childbirth](https://songsuwo.ca/thedorsalcolumn/research-highlight-deanne-wah) The Dorsal Column, Research Highlights. \
 [5] Wah, D. (2023). [Strong ties: who do we share our microbiome with?](https://songsuwo.ca/thedorsalcolumn/research-highlight-deanne-wah-1) The Dorsal Column, Research Highlights. \
 [4] Wah, D. (2023). [Brains in synchrony: A study of social cognition and Despicable Me?](https://songsuwo.ca/thedorsalcolumn/vol4-iss1-deanne-wah) The Dorsal Column, 4(1). \
 [3] Wah, D. (2022). [Using brain scanning to communicate when all else fails](https://songsuwo.ca/thedorsalcolumn/vol3-iss3-deanne-wah). The Dorsal Column, 3(3). \
